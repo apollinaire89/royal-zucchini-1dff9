@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Buy, sell premium domains'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      We know that it starts with a great and memorable Domain. Namebid was
+      founded by a team of IT professionals who are dedicated and agile. Whether
+      you are a Buyer or Seller of a digital asset we will assist you with
+      secure and seamless transfer process.Our core values are professionalism
+      and trustworthiness.
     actions:
       - label: Let's talk
         url: /contact
