@@ -12,7 +12,7 @@ sections:
       secure and seamless transfer process. Our core values are professionalism
       and trustworthiness.
     actions:
-      - label: Let's talk
+      - label: Get in touch
         url: /contact
         style: button
   - section_id: latest-projects
